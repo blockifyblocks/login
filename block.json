@@ -1,5 +1,5 @@
 {
-	"name": "Login",
+	"name": "login",
 	"template": {
 		"@type": "Thing",
 		"name": "Login"

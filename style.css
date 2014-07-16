@@ -1,0 +1,40 @@
+section.login h1.login-header {
+  font-size: 24px;
+  background-color: #8e44ad;
+  width: 100%;
+  padding: 15px;
+  margin: 0;
+  color: #fff;
+}
+section.login .login-wrapper {
+  background-color: #e5e5e5;
+  border-radius: 0px 0px 10px 10px;
+  padding: 20px 0;
+  -webkit-transform: translateZ(0);
+}
+section.login .login-wrapper #login-form {
+  padding: 0 15px;
+  text-align: center;
+}
+section.login .login-wrapper #login-form input {
+  margin: 0 auto;
+  float: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  border: 0;
+  padding: 5px 10px;
+  background-color: #fdfdfd;
+  padding: 5px 5px;
+  width: 100%;
+}
+section.login .login-wrapper #login-form #login-submit {
+  background-color: #8e44ad;
+  color: #fff;
+  padding: 10px 0;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 0;
+  border-bottom: 4px solid #73378c;
+  text-align: center;
+  box-shadow: none;
+}

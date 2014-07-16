@@ -1,0 +1,7 @@
+{
+	"name": "Login",
+	"template": {
+		"@type": "Thing",
+		"name": "Login"
+	}
+}
